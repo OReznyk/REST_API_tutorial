@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">REST_API_tutorial</string>
+    <string name="get_id">Get ID</string>
+    <string name="report_by_id">Report by ID</string>
+    <string name="report_by_name">Report by Name</string>
+    <string name="id_or_city">ID or City</string>
+</resources>
